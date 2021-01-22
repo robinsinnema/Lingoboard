@@ -1,71 +1,71 @@
 h1 {
-    font-size: 90px;
-    text-align: center;
-    font-family: cursive;
-    margin-bottom: 10px;
-    margin-top: 10px;
+  font-size: 90px;
+  text-align: center;
+  font-family: cursive;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 body {
-	margin: 0 auto;
-	width: 500px;
+  margin: 0 auto;
+  width: 500px;
 }
 
 input {
-    width: 92.8px;
-    height: 92.8px;
-	font-size: 45px;
-	text-align: center;
-	background-color: #0080FF;
-	color: white;
-	margin-top: 5px;
-	border: 0;
-	cursor: pointer;
-	text-transform: uppercase;
+  width: 92.8px;
+  height: 92.8px;
+  font-size: 45px;
+  text-align: center;
+  background-color: #0080ff;
+  color: white;
+  margin-top: 5px;
+  border: 0;
+  cursor: pointer;
+  text-transform: uppercase;
 }
 
 button {
-	width: 100%;
-	margin-top: 5px;
-	border: 0;
-	font-size: 16px;
-	font-weight: bold;
-	cursor: pointer;
-	color: white;
-	padding: 15px 30px;
-	transition: all .1s ease-in;
+  width: 100%;
+  margin-top: 5px;
+  border: 0;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  color: white;
+  padding: 15px 30px;
+  transition: all 0.1s ease-in;
 }
 #check {
-	background-color: rgb(4, 102, 201);
+  background-color: rgb(4, 102, 201);
 }
 
 #check:hover {
-	background-color: rgb(3, 91, 179);
+  background-color: rgb(3, 91, 179);
 }
 
 #opnieuw {
-	background-color: #4caf50;
+  background-color: #4caf50;
 }
 
 #opnieuw:hover {
-	background-color: #3c8b3e;
+  background-color: #3c8b3e;
 }
 
 input:focus {
-	background-color: rgb(3, 91, 179);
+  background-color: rgb(3, 91, 179);
 }
 
 #result {
-	display: block;
-	text-align: center;
-	font-size: 18px;
-	margin-top: 15px;
-	margin-bottom: 15px;
-	font-family: sans-serif;
-	text-decoration: underline;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-family: sans-serif;
+  text-decoration: underline;
 }
 
 p {
-	text-align: center;
-	margin: 0;
+  text-align: center;
+  margin: 0;
 }
